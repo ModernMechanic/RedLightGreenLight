@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RedLightGreenLight
 //
-//  Created by dustin on 7/22/16.
+//  Created by dustin d'avignon on 6/13/16.
 //  Copyright © 2016 Modern Mechanic. All rights reserved.
 //
 
@@ -12,7 +12,6 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
     }
 

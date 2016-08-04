@@ -11,6 +11,7 @@
 		DAF12AC81D4289E5006C4D85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF12AC71D4289E5006C4D85 /* ViewController.swift */; };
 		DAF12ACA1D4289E5006C4D85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAF12AC91D4289E5006C4D85 /* Assets.xcassets */; };
 		DAF12ACD1D4289E5006C4D85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAF12ACB1D4289E5006C4D85 /* Main.storyboard */; };
+		DAF12AED1D42A7A6006C4D85 /* blink1-tool in Resources */ = {isa = PBXBuildFile; fileRef = DAF12AEC1D42A7A6006C4D85 /* blink1-tool */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DAF12AC91D4289E5006C4D85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAF12ACC1D4289E5006C4D85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DAF12ACE1D4289E5006C4D85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAF12AEC1D42A7A6006C4D85 /* blink1-tool */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "blink1-tool"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DAF12AC91D4289E5006C4D85 /* Assets.xcassets */,
 				DAF12ACB1D4289E5006C4D85 /* Main.storyboard */,
 				DAF12ACE1D4289E5006C4D85 /* Info.plist */,
+				DAF12AEC1D42A7A6006C4D85 /* blink1-tool */,
 			);
 			path = RedLightGreenLight;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAF12AED1D42A7A6006C4D85 /* blink1-tool in Resources */,
 				DAF12ACA1D4289E5006C4D85 /* Assets.xcassets in Resources */,
 				DAF12ACD1D4289E5006C4D85 /* Main.storyboard in Resources */,
 			);
@@ -275,6 +279,7 @@
 				DAF12AD31D4289E5006C4D85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
